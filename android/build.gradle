@@ -29,5 +29,5 @@ allprojects {
 
 dependencies {
     compile 'com.facebook.react:react-native:+'
-    compile "com.android.support:appcompat-v7:25.3.2"
+    compile "com.android.support:appcompat-v7:25.4.0"
 }
